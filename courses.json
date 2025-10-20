@@ -70,14 +70,5 @@
     "level": "Intermediate",
     "instructor": "Anna Martinez",
     "thumbnail": "https://picsum.photos/id/59/500/300"
-  },
-  {
-    "id": 9,
-    "title": "React",
-    "description": "Learn the fundamentals of React, including components, state management, and hooks.",
-    "duration": "6 weeks",
-    "level": "Intermediate",
-    "instructor": "Anna Martinez",
-    "thumbnail": "https://picsum.photos/id/60/500/300"
   }
 ]
